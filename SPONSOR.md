@@ -6,7 +6,7 @@
 - TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe
 - TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv
 
-1. 支付宝
+2. 支付宝
 
 ![支付宝](images/alipay.PNG)
 
