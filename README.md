@@ -1,4 +1,4 @@
-- 💻 Accepting remote part-time work, please call [me](mailto:gngppz@gmail.com)
+- 💻 Accepting remote full-time or part-time work, please call [me](mailto:gngppz@gmail.com)
 - ☕️ Help me work seamlessly with open source sharing by [sponsoring me on GitHub](https://github.com/0x676e67/gngpp/blob/main/SPONSOR.md)
 - 📫 For private suggestions, paid support, reviews, etc, reach out for:
 
