@@ -2,7 +2,7 @@
 
 如果我的开源项目对你有帮助，请考虑通过以下任意一种方式赞助:
 
-1. TRC20 - USDT or TRX
+1.  USDT/TRX (TRC20)
 - TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe
 - TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv
 
