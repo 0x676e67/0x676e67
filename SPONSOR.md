@@ -6,15 +6,11 @@
 - TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe
 - TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv
 
-2. ko-fi
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0x676e67)
-
-4. 支付宝
+2. 支付宝
 
 ![支付宝](images/alipay.PNG)
 
-4. 微信支付
+3. 微信支付
 
 ![微信支付](images/wechat.JPG)
 
