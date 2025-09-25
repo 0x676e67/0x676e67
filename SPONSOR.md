@@ -18,21 +18,21 @@
 
 ---
 
-3. SOL (Solana)
-- 8E8EoeFqKn6QcaZrnnCfozksu5f89Wgqr1kGwSDx2jDG
-
----
-
-4. SOL (BNB Smart Chain)
+4. SOL (BNB Smart Chain) (ERC20)
 - 0x936396033f9585cbeb5b1a56823e6a46804260a6
 
 ---
 
-5. 支付宝
+5. SOL (Solana)
+- 8E8EoeFqKn6QcaZrnnCfozksu5f89Wgqr1kGwSDx2jDG
+
+---
+
+6. 支付宝
 
 ![支付宝](images/alipay.PNG)
 
-6. 微信支付
+7. 微信支付
 
 ![微信支付](images/wechat.JPG)
 
