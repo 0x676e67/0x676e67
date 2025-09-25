@@ -13,6 +13,11 @@
 
 ---
 
+3. ETH (ERC20)
+- 0x936396033f9585cbeb5b1a56823e6a46804260a6
+
+---
+
 3. SOL (Solana)
 - 8E8EoeFqKn6QcaZrnnCfozksu5f89Wgqr1kGwSDx2jDG
 
