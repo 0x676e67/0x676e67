@@ -35,10 +35,10 @@
 
 7. 支付宝
 
-![支付宝](images/alipay.PNG)
+<img src="images/alipay.PNG" alt="支付宝" style="width:200px; max-width:100%; height:auto;" />
 
 8. 微信支付
 
-![微信支付](images/wechat.JPG)
+<img src="images/wechat.JPG" alt="微信支付" style="width:200px; max-width:100%; height:auto;" />
 
 Thanks!
