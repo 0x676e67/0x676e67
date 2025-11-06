@@ -33,7 +33,7 @@
 
 ---
 
-7 LTC (Network: Litecoin)
+7. LTC (Network: Litecoin)
 - LKmPcRSZYuHCdExr1VauL46wVKrhxaP7UW
 
 ---
