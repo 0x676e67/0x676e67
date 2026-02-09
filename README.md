@@ -6,6 +6,4 @@
   [![discord](https://img.shields.io/badge/Discord-blue?color=white&logo=discord&logoColor=blue)](https://discordapp.com/users/1095532802314870894)
   [![tеlеgrаm](https://img.shields.io/badge/Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Ox676e67)
 
-<!-- <img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x676e67&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=less,nix,dockerfile,lua,cmake,SourcePawn,Roff,Assembly,Makefile,Shell,javascript,html,css,vue,scss,plpgsql,typescript" /> -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x676e67&theme=github_dark)
