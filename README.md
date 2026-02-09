@@ -6,4 +6,4 @@
   [![discord](https://img.shields.io/badge/Discord-blue?color=white&logo=discord&logoColor=blue)](https://discordapp.com/users/1095532802314870894)
   [![tеlеgrаm](https://img.shields.io/badge/Telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/Ox676e67)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x676e67&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x676e67&theme=github_dark)
