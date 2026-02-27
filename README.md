@@ -12,6 +12,6 @@
 
 ### Sponsor
 
-* USDT (TRC20) ⮕ `TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe`
-* ETH (ERC20) ⮕ `0x936396033f9585cbeb5b1a56823e6a46804260a6`
+* USDT (TRC20) -> `TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe`
+* ETH (ERC20) -> `0x936396033f9585cbeb5b1a56823e6a46804260a6`
 * [View more payment options](https://github.com/0x676e67/gngpp/blob/main/SPONSOR.md)
