@@ -22,6 +22,12 @@
         <strong>@justhyped</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ItsCuzzo">
+        <img src="https://github.com/ItsCuzzo.png?size=160" width="80" height="80" alt="@ItsCuzzo" /><br />
+        <strong>@ItsCuzzo</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -31,13 +37,13 @@ Many others have also supported my work over time. I can no longer recall every 
 
 | Payment method | Address |
 | --- | --- |
-| USDT / TRX (Netwrok: TRC20) | `TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe`<br />`TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv` |
-| BNB (Netwrok: BEP20) | `0x936396033f9585cbeb5b1a56823e6a46804260a6` |
-| ETH (Netwrok: ERC20) | `0x936396033f9585cbeb5b1a56823e6a46804260a6` |
-| SOL (BNB Smart Chain) (Netwrok: ERC20) | `0x936396033f9585cbeb5b1a56823e6a46804260a6` |
-| SOL (Netwrok: Solana) | `8E8EoeFqKn6QcaZrnnCfozksu5f89Wgqr1kGwSDx2jDG` |
-| BTC (Netwrok: Bitcoin) | `12YwVtz8ZJNDHDG1fvsD8G3QV12udTxJLq` |
-| LTC (Network: Litecoin) | `LKmPcRSZYuHCdExr1VauL46wVKrhxaP7UW` |
+| USDT / TRX (Netwrok: TRC20) | TCwD8HfHnJ7236Hdj3HF5uZKR2keeWeqZe<br />TCAyNh5xu52wEYkLyfqCywGkaHLsSo9jRv |
+| BNB (Netwrok: BEP20) | 0x936396033f9585cbeb5b1a56823e6a46804260a6 |
+| ETH (Netwrok: ERC20) | 0x936396033f9585cbeb5b1a56823e6a46804260a6 |
+| SOL (BNB Smart Chain) (Netwrok: ERC20) | 0x936396033f9585cbeb5b1a56823e6a46804260a6 |
+| SOL (Netwrok: Solana) | 8E8EoeFqKn6QcaZrnnCfozksu5f89Wgqr1kGwSDx2jDG |
+| BTC (Netwrok: Bitcoin) | 12YwVtz8ZJNDHDG1fvsD8G3QV12udTxJLq |
+| LTC (Network: Litecoin) | LKmPcRSZYuHCdExr1VauL46wVKrhxaP7UW |
 
 ## Alipay & Weixin Pay
 
