@@ -28,6 +28,12 @@
         <strong>@ItsCuzzo</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ziad-gg">
+        <img src="https://github.com/ziad-gg.png?size=160" width="80" height="80" alt="@ziad-gg" /><br />
+        <strong>@ziad-gg</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
